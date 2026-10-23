@@ -1,14 +1,12 @@
 # Hellow, I'm Rotince Sitorus 
 
 ### Computer Engineering Technology Student 
-
-I'm a student passionate about technology and software development. I enjoy learning new technologies, building projects, and solving problems through code.
+A student passionate about technology and software development. I enjoy learning new technologies, building projects, and solving problems through code.
 
 - 🎓 Studying Computer Engineering Technology
 - 💻 Interested in Web Development and Software Engineering
 - 🌐 Exploring Computer Networking and System Administration
 - 🤖 Learning IoT and Machine Learning
-- 🚀 Currently developing Android mobile Apps
 - 🌱 Always learning and improving my technical skills
 
 ---
@@ -53,19 +51,10 @@ A simple task-list application built to practice Flutter widgets and interactive
 
 
 ### 3. IoT Projects
-Academic projects exploring sensors, microcontrollers, and connected systems.
 
 **Focus:** ESP32, Sensors, IoT
 
 ---
-
-## Currently Learning
-
-- Building web applications with Laravel
-- Improving my programming fundamentals
-- Understanding computer networks and system administration
-- Exploring machine learning with Python
-- Developing practical IoT projects
 
 ---
 
